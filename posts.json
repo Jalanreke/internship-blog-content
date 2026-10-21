@@ -1,5 +1,13 @@
 [
   {
+    "id": "mvhu0lc8",
+    "created": "2026-10-02T12:00:00.000Z",
+    "media": [],
+    "title": "beobank workshop",
+    "body": "This week I got the Beobank workshop branch ready and merged in time for the in-person workshop at Beobank headquarters in Brussels. It includes features like TOTP two-factor authentication (2FA). That feature is only for Beobank and can be switched on and off with a feature flag.\n\nI also built most of the feedback system during this time, so we at Oper can easily access the feedback given during testing.",
+    "updated": "2026-10-21T08:10:03.655Z"
+  },
+  {
     "id": "mvhtwsos",
     "created": "2026-10-14T12:00:00.000Z",
     "media": [],
