@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "mvhtwsos",
+    "created": "2026-10-14T12:00:00.000Z",
+    "media": [],
+    "title": "tweede beobank meeting",
+    "body": "Momenteel ben ik bezig aan een project in verband met de implementatie van onze herman ai agent voor beobank. Herman is een AI agent die gespecialiseerd is in het analyzeren van documenten voor hypotheken op te stellen ( denk dan aan  payslips, epc, decision fiches, etc). De Beobank  features own ik end to end. Dit houd in dat ik in sta voor de  backend, frontend en rechtstreeks in contact sta met de analysten die onze tool gaan gebruiken. We hebben  ongeveer om de twee weken een meeting met hun om nieuwe feedback te krijgen die ik kan implementeren.",
+    "updated": "2026-10-21T08:07:06.555Z"
+  }
+]
