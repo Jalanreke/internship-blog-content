@@ -1,5 +1,13 @@
 [
   {
+    "id": "mvhu62mc",
+    "created": "2026-10-16T12:00:00.000Z",
+    "media": [],
+    "title": "beobank tickets and verifications",
+    "body": "This week I worked on our open Beobank tickets, around 90 in total. I completed 76 of them, and 14 were put on hold.\n\nI also added missing proof in the verifications tab, so analysts can review Herman's findings against the extractions.",
+    "updated": "2026-10-21T08:14:19.331Z"
+  },
+  {
     "id": "mvhu2p91",
     "created": "2026-10-09T12:00:00.000Z",
     "media": [],
