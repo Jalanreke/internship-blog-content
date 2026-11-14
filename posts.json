@@ -1,5 +1,21 @@
 [
   {
+    "id": "mi0keycl",
+    "created": "2026-11-14T12:00:00.000Z",
+    "media": [],
+    "title": "feedback in de praktijk",
+    "body": "Deze week zijn we begonnen met het doorvoeren van de feedback uit onze meetings, en de Beobank-frontend wordt er al beter van. Daarnaast heb ik Keycloak SSO aan het platform toegevoegd, die via een feature flag aan en uit gezet kan worden, en dat geldt ook voor Creafin en Fiporta. We bouwen ook aan een feedbackloop-systeem, zodat input op één plek wordt verzameld, opgepakt en teruggekoppeld. Het doel is dat feedback elke iteratie stuurt in plaats van blijft liggen.",
+    "updated": "2026-11-14T18:45:10.626Z"
+  },
+  {
+    "id": "mi0frontd",
+    "created": "2026-11-07T12:00:00.000Z",
+    "media": [],
+    "title": "beobank-frontend en feedback",
+    "body": "Vorige week hebben we ons gericht op de Beobank-frontend. We hielden meer meetings dan normaal en verzamelden veel bruikbare feedback van de Beobank-analisten. Daarnaast heb ik de pagina opgeschoond en de AI-data die op de pagina wordt getoond gecontroleerd en geverifieerd. Zo weten we beter wat goed werkt en wat nog moet veranderen, en nemen we dat mee in de planning voor deze week.",
+    "updated": "2026-11-14T18:45:10.626Z"
+  },
+  {
     "id": "mvhu8618",
     "created": "2026-10-21T12:00:00.000Z",
     "media": [],
