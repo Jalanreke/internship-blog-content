@@ -1,5 +1,13 @@
 [
   {
+    "id": "mwqg9vhc",
+    "created": "2026-11-21T13:35:00.000Z",
+    "media": [],
+    "title": "single sign-on voor de oper producten",
+    "body": "Deze week hebben we single sign-on (SSO) gebouwd die de Oper-producten aan elkaar koppelt. Analisten hoeven nu maar een keer in te loggen en kunnen daarna tussen de verschillende tools wisselen zonder opnieuw hun gegevens in te geven.\n\nDit bouwt verder op de Keycloak SSO die ik vorige week aan het platform heb toegevoegd. Voor de analisten scheelt het tijd, en voor ons is het beheer van accounts en toegang nu op een plek geregeld.",
+    "updated": "2026-11-21T13:35:00.000Z"
+  },
+  {
     "id": "mi0keycl",
     "created": "2026-11-14T12:00:00.000Z",
     "media": [],
